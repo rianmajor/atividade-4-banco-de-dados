@@ -1,22 +1,32 @@
-Atividade 4 – Repositório GitHub
+# Atividade 4 – Modelagem de Banco de Dados  
+### Repositório de Scripts SQL – UNICID
 
-Este repositório foi criado para a entrega da Atividade 4 da disciplina Modelagem de Banco de Dados – UNICID.
+Este repositório foi criado para a entrega da Atividade 4 da disciplina **Modelagem de Banco de Dados** da UNICID.
 
-Ele reúne todos os arquivos solicitados na atividade, incluindo documentação e scripts necessários.
+Ele contém todos os scripts necessários para execução da prática, incluindo criação, inserção, consultas, atualização e exclusão de dados.
 
-📁 Conteúdo do Repositório
-	•	README.md – descrição da atividade e organização do repositório
-	•	master.sql – script SQL principal
-	•	Outros arquivos enviados conforme orientação da atividade
+---
 
-🎯 Objetivo da Atividade
-	•	Criar um repositório no GitHub
-	•	Organizar e versionar arquivos da disciplina
-	•	Demonstrar o uso básico da plataforma GitHub
-	•	Enviar o link do repositório como entrega final
+## 📁 Arquivos do Repositório
 
-👨‍🎓 Autor
+- **master.sql** – Script principal que executa tudo (criação + inserts + updates + deletes + selects).
+- **01_inserts.sql** – Comandos INSERT das tabelas.
+- **02_selects.sql** – Consultas SELECT (com WHERE, ORDER BY, LIMIT, JOIN).
+- **03_updates_deletes.sql** – Comandos UPDATE e DELETE.
 
-Rian Major da Silva
-Universidade Cidade de São Paulo – UNICID
+---
+
+## 🎯 Objetivo da Atividade
+
+- Utilizar SQL aplicado ao modelo lógico criado anteriormente.
+- Criar scripts organizados e funcionais.
+- Publicar tudo em um repositório GitHub.
+- Demonstrar o uso básico de versionamento e organização.
+
+---
+
+## 👨‍🎓 Autor
+
+Rian Major da Silva  
+Universidade Cidade de São Paulo – UNICID  
 Disciplina: Modelagem de Banco de Dados
